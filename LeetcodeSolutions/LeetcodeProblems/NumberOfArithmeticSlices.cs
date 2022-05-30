@@ -1,4 +1,4 @@
-namespace Scratchpad.LeetcodeSolutions;
+namespace LeetcodeSolutions.LeetcodeProblems;
 
 public class NumberOfArithmeticSlices
 {

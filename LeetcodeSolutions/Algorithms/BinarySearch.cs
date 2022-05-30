@@ -1,4 +1,4 @@
-namespace Scratchpad.AlgorithmTypes;
+namespace LeetcodeSolutions.Algorithms;
 
 public class BinarySearch
 {
